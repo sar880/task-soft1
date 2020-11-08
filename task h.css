@@ -1,0 +1,13 @@
+a {
+    overflow: hidden;
+float: inline-start;
+color: blueviolet;
+padding: 10px 10px;
+text-align: center;
+background: blue;
+}
+section{
+    display: block;
+    border-spacing: 20px;
+    text-align: center;
+}
